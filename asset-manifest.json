@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orbitenergysolutions/static/css/main.c7e7f04e.css",
-    "main.js": "/orbitenergysolutions/static/js/main.d1075185.js",
+    "main.js": "/orbitenergysolutions/static/js/main.62da39a9.js",
     "static/media/energy-explain.jpg": "/orbitenergysolutions/static/media/energy-explain.ec1a2aa5a4ef42ed441e.jpg",
     "static/media/image-2.jpg": "/orbitenergysolutions/static/media/image-2.6920e5942d776796617f.jpg",
     "static/media/image-11.jpg": "/orbitenergysolutions/static/media/image-11.abd668f022faa512441d.jpg",
@@ -11,10 +11,10 @@
     "static/media/headimg.jpg": "/orbitenergysolutions/static/media/headimg.29809924317a4d122856.jpg",
     "index.html": "/orbitenergysolutions/index.html",
     "main.c7e7f04e.css.map": "/orbitenergysolutions/static/css/main.c7e7f04e.css.map",
-    "main.d1075185.js.map": "/orbitenergysolutions/static/js/main.d1075185.js.map"
+    "main.62da39a9.js.map": "/orbitenergysolutions/static/js/main.62da39a9.js.map"
   },
   "entrypoints": [
     "static/css/main.c7e7f04e.css",
-    "static/js/main.d1075185.js"
+    "static/js/main.62da39a9.js"
   ]
 }
